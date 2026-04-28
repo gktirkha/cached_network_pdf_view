@@ -1,6 +1,6 @@
 name: cached_network_pdf_view
 description: "A Flutter widget to view and cache PDFs from network URLs using flutter_cache_manager and flutter_pdfview. Supports offline access, gestures, and custom indicators."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/gktirkha/cached_network_pdf_view
 
 environment:
